@@ -23,7 +23,7 @@ This project demonstrates how to predict California housing prices using linear 
 
 ```
 .
-├── 03_linear-regression_practice.ipynb   # Main Jupyter Notebook
+├── California_house_prediction.ipynb   # Main Jupyter Notebook
 ├── README.md                             # Project documentation
 ```
 
